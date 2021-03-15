@@ -3,8 +3,8 @@ package seeds
 import (
 	"github.com/icrowley/fake"
 	"github.com/jinzhu/gorm"
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
 	"golang.org/x/crypto/bcrypt"
 	"math/rand"
 	"time"

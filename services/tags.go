@@ -1,8 +1,8 @@
 package services
 
 import (
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
 )
 
 func FetchAllTags() ([]models.Tag, error) {

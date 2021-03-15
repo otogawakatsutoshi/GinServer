@@ -1,7 +1,7 @@
 package dtos
 
 import (
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
 	"strings"
 )
 

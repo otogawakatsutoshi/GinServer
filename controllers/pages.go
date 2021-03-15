@@ -3,8 +3,8 @@ package controllers
 import (
 	"errors"
 	"github.com/gin-gonic/gin"
-	"https://github.com/KatsutoshiOtogawa/GinServer/dtos"
-	"https://github.com/KatsutoshiOtogawa/GinServer/services"
+	"github.com/KatsutoshiOtogawa/GinServer/dtos"
+	"github.com/KatsutoshiOtogawa/GinServer/services"
 	"net/http"
 )
 

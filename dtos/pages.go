@@ -1,6 +1,6 @@
 package dtos
 
-import "https://github.com/KatsutoshiOtogawa/GinServer/models"
+import "github.com/KatsutoshiOtogawa/GinServer/models"
 
 func CreateHomeResponse(tags []models.Tag, categories []models.Category) map[string]interface{} {
 	return CreateSuccessDto(map[string]interface{}{

@@ -5,17 +5,17 @@ import (
 	"errors"
 	"github.com/gin-gonic/gin"
 	"github.com/gosimple/slug"
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
 	"os"
 	"path/filepath"
 	"regexp"
 	"strings"
 
-	"https://github.com/KatsutoshiOtogawa/GinServer/dtos"
+	"github.com/KatsutoshiOtogawa/GinServer/dtos"
 
-	"https://github.com/KatsutoshiOtogawa/GinServer/middlewares"
-	"https://github.com/KatsutoshiOtogawa/GinServer/services"
+	"github.com/KatsutoshiOtogawa/GinServer/middlewares"
+	"github.com/KatsutoshiOtogawa/GinServer/services"
 
 	"net/http"
 	"strconv"

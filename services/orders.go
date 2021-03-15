@@ -1,8 +1,8 @@
 package services
 
 import (
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
 )
 
 func FetchOrdersPage(userId uint, page, pageSize int) (orders []models.Order, totalOrdersCount int, err error) {

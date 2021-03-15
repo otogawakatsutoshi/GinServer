@@ -1,7 +1,7 @@
 package services
 
 import (
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
 )
 
 func CreateOne(data interface{}) error {

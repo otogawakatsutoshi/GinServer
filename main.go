@@ -6,11 +6,11 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
 	"github.com/joho/godotenv"
-	"https://github.com/KatsutoshiOtogawa/GinServer/controllers"
-	"https://github.com/KatsutoshiOtogawa/GinServer/infrastructure"
-	"https://github.com/KatsutoshiOtogawa/GinServer/middlewares"
-	"https://github.com/KatsutoshiOtogawa/GinServer/models"
-	"https://github.com/KatsutoshiOtogawa/GinServer/seeds"
+	"github.com/KatsutoshiOtogawa/GinServer/controllers"
+	"github.com/KatsutoshiOtogawa/GinServer/infrastructure"
+	"github.com/KatsutoshiOtogawa/GinServer/middlewares"
+	"github.com/KatsutoshiOtogawa/GinServer/models"
+	"github.com/KatsutoshiOtogawa/GinServer/seeds"
 	"os"
 )
 
