@@ -2,6 +2,7 @@
 .env
 app.db
 
+go.sum
 data/
 log/
 
